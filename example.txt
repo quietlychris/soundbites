@@ -1,0 +1,6 @@
+steel-modulus
+Question: What is the Young's Modulus of Steel?
+Answer: 200 giga-pascals
+aluminum-suffixes
+Question: What are the most common suffixes for aluminum processes and what do they mean?
+Answer: In aluminum, "dash OH" means "as annealed", "dash H" means "strain hardened by a cold working process", and "dash T" means "heat-treated"
