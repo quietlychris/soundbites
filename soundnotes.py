@@ -22,12 +22,10 @@ f = open(card_file)
 num_lines = sum(1 for num_lines in open(card_file))
 
 # opens an empty list, then fills it with each line in the text file
-# if the text file length is not divisible by exactly 3 [i.e. not in the
-# (title \n questions \n answer) ] format, it will remove a line from the list
-# until that criteria is met
 my_list = list(f)
 length = len(my_list)
 
+# prints the number of 'flashcards' tp the command line
 q_num = num_lines/3
 print "my_list is",length," and the number of questions is: ",q_num
 
